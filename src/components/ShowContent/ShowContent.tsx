@@ -8,7 +8,7 @@ function ShowContent() {
       </div>
       <div className="w-full min-h-fit bg-white p-5">
             <div className="w-full h-[200px] text-black font-medium  text-center text-lg sm:text-xl flex justify-center items-center  border border-gray-300 rounded-xl">
-                <p>You've got knowledge, it's time to share it!</p>
+                <p>You{"'"}ve got knowledge, it{"'"}s time to share it!</p>
             </div>
       </div>
     </div>
