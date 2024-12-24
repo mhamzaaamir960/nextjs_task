@@ -2,7 +2,7 @@ import React from "react";
 
 function ShowContent() {
   return (
-    <div className=" max-w-[1200px] w-full min-h-[500px] md:min-h-[700px] bg-white border border-gray-300 rounded-xl">
+    <div className=" max-w-[1000px] w-full min-h-[500px] md:min-h-[700px] bg-white border border-gray-300 rounded-xl">
       <div className="h-[70px] text-black font-medium text-xl sm:text-2xl flex items-center border-b border-gray-300 pl-5  ">
         Name of the content
       </div>
